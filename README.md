@@ -1,6 +1,8 @@
 # JS-SPA-MD-Viewer
     A Pure JS documentation like SPA website for viewing .md files on the fly. with routing, 404,500 error page and sitemap on the fly.
 
+![Preview](./preview.jpeg)
+
 ### how to use (1):
     1) add your routes to `app/routes.js` file
 
